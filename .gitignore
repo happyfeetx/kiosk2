@@ -1,0 +1,12 @@
+# Visual Studio files/directories
+.vs/
+.vscode/
+**/*.opendb
+**/*.db
+
+# Binaries
+*.dmg
+*.exe
+*.dll
+*.so
+*.o

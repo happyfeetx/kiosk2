@@ -1,0 +1,8 @@
+C:\Projects\Kiosk\Kiosk.Core\bin\Debug\netcoreapp2.2\Kiosk.Core.deps.json
+C:\Projects\Kiosk\Kiosk.Core\bin\Debug\netcoreapp2.2\Kiosk.Core.runtimeconfig.json
+C:\Projects\Kiosk\Kiosk.Core\bin\Debug\netcoreapp2.2\Kiosk.Core.runtimeconfig.dev.json
+C:\Projects\Kiosk\Kiosk.Core\bin\Debug\netcoreapp2.2\Kiosk.Core.dll
+C:\Projects\Kiosk\Kiosk.Core\obj\Debug\netcoreapp2.2\Kiosk.Core.csprojAssemblyReference.cache
+C:\Projects\Kiosk\Kiosk.Core\obj\Debug\netcoreapp2.2\Kiosk.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Kiosk\Kiosk.Core\obj\Debug\netcoreapp2.2\Kiosk.Core.AssemblyInfoInputs.cache
+C:\Projects\Kiosk\Kiosk.Core\obj\Debug\netcoreapp2.2\Kiosk.Core.AssemblyInfo.cs
